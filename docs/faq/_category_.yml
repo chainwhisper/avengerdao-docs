@@ -1,0 +1,8 @@
+position: 5
+label: 'FAQ'
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+className: green
+link:
+  type: generated-index
+  title: AvengerDAO FAQ

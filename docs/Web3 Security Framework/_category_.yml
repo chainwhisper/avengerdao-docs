@@ -1,0 +1,8 @@
+position: 2
+label: 'Web3 Security Framework'
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+className: green
+link:
+  type: generated-index
+  title: Web3 Security Framework
